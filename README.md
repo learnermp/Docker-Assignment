@@ -77,5 +77,9 @@
 
 ![fastapi_helloworld](https://user-images.githubusercontent.com/64764963/196697799-aa589f7d-bb07-4ec0-ad06-1f8a87f16c2c.jpg)
 
+## Assignment 4:
+### Automate Assignment below task using github action.
 
+### Build Docker Image
+### Push Docker Image to Docker hub.
 

@@ -83,7 +83,7 @@
 ### Build Docker Image
 ### Push Docker Image to Docker hub.
 
-Tried to solve this assignment after going through Medium.com or Youtube. It requires Docker subcription to link Github account, therefore, could not proceed further. Ptease suggest the way to solve this assignment.
+I tried to solve this assignment after going through Medium.com or Youtube. It requires a Docker subscription to link to a Github account, therefore, could not proceed further. Please suggest a way to solve this assignment.
 
 ![Docker Subscription](https://user-images.githubusercontent.com/64764963/196744171-4fc27c62-9bd6-4a7a-9a6c-ff85a666922c.jpg)
 
